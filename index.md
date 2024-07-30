@@ -126,6 +126,12 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+<p id="registration">
+    <strong>REGISTRATION</strong>
+    This is a free workshop. Register to get access to lesson materials and zoom link here: [https://forms.gle/xpQvZ8eSGgKLppbx7](https://forms.gle/xpQvZ8eSGgKLppbx7)
+</p>
+
+
 {% comment %}
 LOCATION
 
@@ -261,6 +267,14 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p id="funding">
+    <strong>Acknowledgement:</strong>
+    This workshop is being offered by Project DA-FANH [grant no. 2021-77040-34880 from the USDA National Institute of Food and Agriculture]. 
+    Project DA-FANH aims to foster an active, inclusive, and diverse community of learners and instructors that promote and model the 
+    importance of software and data in the Food, Agriculture, Natural Resources and Human Sciences.
+</p>
+
+
 {% comment %}
 WHO CAN ATTEND?
 
@@ -278,7 +292,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to all faculty, staff and students working at or attending any one of the 23 California State University system. 
 </p>
 {% endcomment %}
 
