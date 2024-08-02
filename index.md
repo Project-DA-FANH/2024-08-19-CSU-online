@@ -128,7 +128,7 @@ workshop is only open to people from a particular institution.
 
 <p id="registration">
     <strong>REGISTRATION</strong>
-    This is a free workshop. Register to get access to lesson materials and zoom link here: [Form](https://forms.gle/xpQvZ8eSGgKLppbx7)
+    This is a free workshop. Register to get access to lesson materials and zoom link here: <a href="https://forms.gle/xpQvZ8eSGgKLppbx7">Form</a>
 </p>
 
 
